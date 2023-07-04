@@ -1,0 +1,25 @@
+¿Que es github?
+Github es una plataforma creada para alojar el código de las aplicaciones de cualquier desarrollador web y,
+que como usuario, da la opción de descargarse la aplicación o acceder a 
+su perfil para leer o colaborar en el desarrollo de los diferentes proyectos.
+Después de saber qué es, llega el momento de saber cómo funciona Github y por qué tiene tanto éxito en todo el mundo.
+las opciones más usadas en Github es Fork, sirve para elaborar un nuevo proyecto basándonos en uno ya creado, nos permite hacer cambios que se van guardando en nuestro
+propio repositorio y no en el original, Con esta opción favorecemos el crecimiento de proyectos posibilitando a los desarrolladores hacer mejoras en un software por cuenta propia y
+si se llevan a cabo mejoras en el repositorio principal, implementarlas al proyecto que ha sido clonado.
+
+¿Que es docker? 
+Docker Hub es un repositorio público de imágenes de contenedores, donde muchas empresas e individuos pueden publicar imágenes de soluciones prediseñadas.
+Estas soluciones van desde WordPress hasta Magento y muchas otras aplicaciones.
+El repositorio de dokcker hub cuenta con una serie de elementos que lo caracterizan y permiten su funcionamiento, dentro de los que se incluyen:
+Imágenes oficiales
+Docker Hub se caracteriza por contener una alta cantidad de imágenes oficiales y de buena calidad para contenedores, es decir,
+son las imágenes que la propia plataforma de Docker proporciona de forma directa.
+Imágenes de proveedores
+Docker Hub también permite la extracción y el uso de imágenes de contenedores proporcionadas por algunos proveedores externos al sistema. En el caso de las imágenes de estos proveedores 
+que se encuentre certificadas, cuentan, además, con un soporte y una garantía que asegura su compatibilidad con la versión de Docker Enterprise.
+
+¿Que es google console?
+Search Console proporciona información sobre la forma en que Google rastrea, indexa y publica sitios web. 
+Esos datos pueden ayudar a los propietarios de sitios web a supervisar y optimizar su rendimiento en la Búsqueda.
+Con Google Search Console, puedes analizar en profundidad tu sitio web, incluidos los detalles sobre cuánto tráfico obtienes y cómo funciona tu sitio web. Esta es una herramienta vital 
+para los propietarios de sitios web porque te permite averiguar qué está mal en tu sitio web y qué puedes hacer para solucionarlo.
